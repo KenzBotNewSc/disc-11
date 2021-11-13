@@ -1,5 +1,5 @@
 const category = {
-    name: "GENERAL",
+    name: "📚 GENERAL",
     hide: false
 };
 
