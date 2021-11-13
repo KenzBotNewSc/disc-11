@@ -1,5 +1,5 @@
 const category = {
-    name: "MODERATION",
+    name: "🛠 MODERATION",
     hide: false
 };
 
