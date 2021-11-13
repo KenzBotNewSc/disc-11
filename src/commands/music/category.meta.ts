@@ -1,5 +1,5 @@
 const category = {
-    name: "MUSIC",
+    name: "🎵 MUSIC",
     hide: false
 };
 
